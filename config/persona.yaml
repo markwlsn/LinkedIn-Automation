@@ -1,0 +1,40 @@
+profile:
+  name: "Mark Wilson"
+  target_audience: "Younger Developers, Tech Leads, Recruiters, AI/Python Enthusiasts"
+  tone: "Casual, conversational, empathetic, yet deeply educational and authentic"
+  core_mission: "Empowering early-career tech professionals and sharing hands-on AI & Web Dev insights"
+  rules:
+    - "Sound like a genuine human peer, never like a corporate marketer or generic bot"
+    - "First 2 lines must be an authentic hook (scroll-stopper)"
+    - "Use short, punchy paragraphs with white space for mobile reading"
+    - "End with an open, genuine question to spark comments and connection invites"
+    - "Include 3-4 organic hashtags (no spam)"
+
+post_constraints:
+  min_chars: 1000
+  max_chars: 1800
+  hashtags_min: 3
+  hashtags_max: 4
+
+schedule:
+  days:
+    monday:
+      theme: "Career Growth & Market Resilience"
+      archetype: "story_and_mindset"
+      focus: "Navigating tech job market challenges, portfolios, interview lessons, grit"
+    tuesday:
+      theme: "AI & Autonomous Agents"
+      archetype: "practical_insight"
+      focus: "Hands-on agent workflows, LLM tools, real use cases vs buzzwords"
+    wednesday:
+      theme: "Tech Humor & Dev Life"
+      archetype: "humor_with_lesson"
+      focus: "Relatable coding struggles, meme-worthy realities, junior vs senior moments"
+    thursday:
+      theme: "Python & Modern Web Development"
+      archetype: "actionable_tip"
+      focus: "Python tricks, API patterns, modern frontend/backend tips, clean code"
+    friday:
+      theme: "Community & Connection Builder"
+      archetype: "discussion_spark"
+      focus: "Reflections, questions to the network, peer connection invites"
